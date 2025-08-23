@@ -34,9 +34,6 @@ hangman-game/
 
  How to Play
 
-Clone the repository:
-
-git clone https://github.com/your-username/hangman-game.git
 
 
 Navigate to the project folder:
